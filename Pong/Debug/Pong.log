@@ -1,0 +1,10 @@
+﻿  Ball.cpp
+c:\users\yvan\documents\visual studio 2015\projects\gameoflife\pong\ball.cpp(20): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\yvan\documents\visual studio 2015\projects\gameoflife\pong\ball.cpp(31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\yvan\documents\visual studio 2015\projects\gameoflife\pong\ball.cpp(42): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\yvan\documents\visual studio 2015\projects\gameoflife\pong\ball.cpp(53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\yvan\documents\visual studio 2015\projects\gameoflife\pong\ball.cpp(222): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\yvan\documents\visual studio 2015\projects\gameoflife\pong\ball.cpp(223): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\yvan\documents\visual studio 2015\projects\gameoflife\pong\ball.cpp(228): warning C4305: '+=' : troncation de 'double' à 'float'
+  Pong.vcxproj -> C:\Users\YVAN\Documents\Visual Studio 2015\Projects\GameOfLife\Debug\Pong.exe
+  Pong.vcxproj -> C:\Users\YVAN\Documents\Visual Studio 2015\Projects\GameOfLife\Debug\Pong.pdb (Full PDB)

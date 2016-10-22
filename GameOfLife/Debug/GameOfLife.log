@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\yvan\documents\visual studio 2015\projects\gameoflife\gameoflife\main.cpp(55): error C2660: 'GameOfLife::drawGameBoard' : la fonction ne prend pas 0 arguments
+c:\users\yvan\documents\visual studio 2015\projects\gameoflife\gameoflife\main.cpp(9): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
